@@ -1,0 +1,2 @@
+# bilibot_plugins_redeem_code
+哔哩哔哩私信自动回复机器人优惠码发放插件
