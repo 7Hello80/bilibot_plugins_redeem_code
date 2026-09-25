@@ -1,2 +1,4 @@
 # bilibot_plugins_redeem_code
 哔哩哔哩私信自动回复机器人优惠码发放插件
+
+可在主程序目录下的plugins目录内找到此插件，可通过修改codes.json来添加或删除优惠码
