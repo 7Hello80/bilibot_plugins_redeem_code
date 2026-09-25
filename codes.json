@@ -1,0 +1,22 @@
+[
+  {
+    "name": "ABC123456",
+    "is_send": false
+  },
+  {
+    "name": "DEF789012",
+    "is_send": false
+  },
+  {
+    "name": "GHI345678",
+    "is_send": false
+  },
+  {
+    "name": "JKL901234",
+    "is_send": false
+  },
+  {
+    "name": "MNO567890",
+    "is_send": false
+  }
+]
