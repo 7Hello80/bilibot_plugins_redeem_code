@@ -1,0 +1,12 @@
+{
+    "name": "redeem_code",
+    "version": "1.0.0",
+    "description": "优惠码发放插件，可修改插件目录内的codes.json来添加或删除优惠码",
+    "author": "淡意往事",
+    "type": "message",
+    "repository": "",
+    "license": "MIT",
+    "enabled": true,
+    "load_order": 0,
+    "dependencies": []
+}
